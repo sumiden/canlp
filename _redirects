@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://lucid-joliot-31984e.netlify.com/* http://canlab.jp/:splat 301!
+https://lucid-joliot-31984e.netlify.com/* https://canlab.jp/:splat 301!
